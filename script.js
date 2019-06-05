@@ -26,3 +26,5 @@
   window.addEventListener('scroll', trackScroll);
   goTopBtn.addEventListener('click', backToTop);
 })();
+
+function fun(){}
